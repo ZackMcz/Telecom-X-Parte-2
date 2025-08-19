@@ -1,7 +1,8 @@
 # Telecom-X-Parte-2
 Prevendo Churn com Machine Learning
 
-# A análise e modelagem preditiva da evasão de clientes em serviços de telecomunicações permitiram identificar fatores críticos que influenciam a decisão dos clientes em cancelar seus serviços. Modelos como Regressão Logística, Árvore de Decisão, KNN, SVM Linear e XGBoost foram avaliados, e a análise de importância das variáveis revelou padrões consistentes.
+# A análise e modelagem preditiva da evasão de clientes em serviços de telecomunicações permitiram identificar fatores críticos que influenciam a decisão dos clientes em cancelar seus serviços. 
+# Modelos como Regressão Logística, Árvore de Decisão, KNN, SVM Linear e XGBoost foram avaliados, e a análise de importância das variáveis revelou padrões consistentes.
 
 Os **principais fatores de risco** identificados incluem:
 *   **Contratos Mensais:** Clientes com este tipo de contrato são significativamente mais propensos a evadir.
